@@ -1,0 +1,1 @@
+This was a collaboration between me and 2 others for a laboration in the course "Introduction to Functional Programming"
